@@ -1,0 +1,10 @@
+{
+  "name": "talking-robot-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Milo: a talking robot simulation with explainable commands and obstacle-aware navigation",
+  "scripts": { "test": "node --test tests/*.test.mjs", "start": "node server.mjs" },
+  "engines": { "node": ">=22" },
+  "license": "MIT"
+}
